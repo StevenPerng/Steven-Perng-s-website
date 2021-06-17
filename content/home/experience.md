@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Structural Engineering Intern
+    company: ACM Civil & Structural Engineers
+    company_url: 'http://acmcivil.com.au/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Sydney
+    date_start: '2021-02-22'
+    date_end: '2021-06-04'
     description: |2-
         Responsibilities include:
         
