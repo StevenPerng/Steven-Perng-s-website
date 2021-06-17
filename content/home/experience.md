@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: Sydney 
     date_start: '2016-01-01'
-    date_end: 'present'
+    date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
