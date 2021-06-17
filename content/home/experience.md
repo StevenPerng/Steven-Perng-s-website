@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Mathematics Teacher
+    company: Australia ABC Tutoring College
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Sydney 
     date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_end: 'present'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
