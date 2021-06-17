@@ -30,11 +30,12 @@ experience:
     date_start: '2021-02-22'
     date_end: '2021-06-04'
     description: |2-
-        Responsibilities include:
+        Summary of key responsibilities:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Designing engineering elements such as footings in AutoCAD 
+        * Performing site investigations 
+        * Analysing reinforced concrete elements using Inducta
+        * Liasing with clients to ensure maximal project success
         
   - title: Mathematics Teacher
     company: Australia ABC Tutoring College
@@ -43,7 +44,13 @@ experience:
     location: Sydney 
     date_start: '2016-01-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Summary of key responsibilities:
+        
+        * Tailoring lesson plans according to students' needs and progress
+        * Developing progress reports using Microsoft Office software
+        * Engaging with students and parents to identify and strengthen any areas of concern
+        
 
 design:
   columns: '2'
