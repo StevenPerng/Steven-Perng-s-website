@@ -25,7 +25,7 @@ experience:
   - title: Structural Engineering Intern
     company: ACM Civil & Structural Engineers
     company_url: 'http://acmcivil.com.au/'
-    company_logo: org-gc
+    company_logo: ![ACM](https://user-images.githubusercontent.com/86037561/122557712-80c94f00-d080-11eb-9e3d-401bcbfa4c9b.jpg)
     location: Sydney
     date_start: '2021-02-22'
     date_end: '2021-06-04'
@@ -40,7 +40,7 @@ experience:
   - title: Mathematics Teacher
     company: Australia ABC Tutoring College
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Sydney 
     date_start: '2016-01-01'
     date_end: ''
