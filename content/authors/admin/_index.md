@@ -7,7 +7,7 @@ interests:
   - Traffic Engineering
   - Transport modelling/analytics
   - Structural Engineering
-  - Residential Housing Developments
+  - Residential Housing 
 social:
   - icon: envelope
     icon_pack: fas
